@@ -19,7 +19,16 @@
             <asp:TextBox ID="Matts_TextBox1" runat="server"></asp:TextBox>
             <br />
             <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
-        </div>
+            <br />
+            <br />
+            SQUAD<br />
+            <br />
+            <asp:CheckBox ID="CheckBox1" runat="server" />
+            <asp:CheckBox ID="CheckBox2" runat="server" />
+            <asp:CheckBox ID="CheckBox3" runat="server" />
+            <br />
+            <br />
+            DANGERDANGERDANGERDANGERDANGERDANGERDANGER</div>
     </form>
 </body>
 </html>
