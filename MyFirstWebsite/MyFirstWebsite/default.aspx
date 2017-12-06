@@ -18,6 +18,7 @@
             <br />
             <asp:TextBox ID="Matts_TextBox1" runat="server"></asp:TextBox>
             <br />
+            <asp:Image ID="Image1" runat="server" ImageUrl="https://d3cqast565g2ov.cloudfront.net/wp-content/uploads/2017/04/jeff-goldblum-799x423.jpg" />
             <asp:Calendar ID="Calendar1" runat="server" BackColor="White" BorderColor="White" BorderWidth="1px" Font-Names="Verdana" Font-Size="9pt" ForeColor="Black" Height="190px" NextPrevFormat="FullMonth" Width="350px">
                 <DayHeaderStyle Font-Bold="True" Font-Size="8pt" />
                 <NextPrevStyle Font-Bold="True" Font-Size="8pt" ForeColor="#333333" VerticalAlign="Bottom" />
@@ -26,6 +27,7 @@
                 <TitleStyle BackColor="White" BorderColor="Black" BorderWidth="4px" Font-Bold="True" Font-Size="12pt" ForeColor="#333399" />
                 <TodayDayStyle BackColor="#CCCCCC" />
             </asp:Calendar>
+            
             <br />
             <br />
             SQUAD<br />
