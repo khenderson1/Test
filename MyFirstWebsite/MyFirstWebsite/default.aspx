@@ -12,9 +12,10 @@
             Welcome to my base! Please have fun! 
             and stay safe<br />
             <br />
-            <asp:Button ID="Button1" runat="server" Text="Send" />
-            <asp:Button ID="Button2" runat="server" Text="It" />
+            <asp:Button ID="btnShibe" runat="server" Text="Send" BackColor="Lime" OnClick="btnShibe_Click" Width="105px" />
+            <asp:Button ID="btnGoaway" runat="server" Text="It" BackColor="Red" OnClick="btnGoaway_Click" Width="95px" />
             <br />
+            <asp:Image ID="Image2" runat="server" Height="115px" ImageUrl="~/Pictures/untitled.png" Visible="False" Width="200px" />
             <br />
             <br />
             <asp:Image ID="Image1" runat="server" ImageUrl="https://d3cqast565g2ov.cloudfront.net/wp-content/uploads/2017/04/jeff-goldblum-799x423.jpg" />

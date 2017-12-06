@@ -13,5 +13,16 @@ namespace MyFirstWebsite
         {
 
         }
+
+        protected void btnShibe_Click(object sender, EventArgs e)
+        {
+            Image2.Visible = true;
+
+        }
+
+        protected void btnGoaway_Click(object sender, EventArgs e)
+        {
+            Image2.Visible = false;
+        }
     }
 }
