@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div style="background-color: #0099FF; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-style: inherit; border-style: dashed">
+        <div style="background-position: right; background-color: #0099FF; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-style: inherit; border-style: dashed; background-image: url('Pictures/noragrets.jpg'); background-repeat: inherit; background-attachment: scroll; overflow: scroll;">
             Welcome to my base! Please have fun! 
             <br />
             <br />
@@ -18,7 +18,7 @@
             <br />
             <asp:TextBox ID="Matts_TextBox1" runat="server"></asp:TextBox>
             <br />
-            <asp:Image ID="Image1" runat="server" ImageUrl="https://d3cqast565g2ov.cloudfront.net/wp-content/uploads/2017/04/jeff-goldblum-799x423.jpg" />
+            <asp:Image ID="Image1" runat="server" ImageUrl="https://d3cqast565g2ov.cloudfront.net/wp-content/uploads/2017/04/jeff-goldblum-799x423.jpg" Width="631px" />
             <asp:Calendar ID="Calendar1" runat="server" BackColor="White" BorderColor="White" BorderWidth="1px" Font-Names="Verdana" Font-Size="9pt" ForeColor="Black" Height="190px" NextPrevFormat="FullMonth" Width="350px">
                 <DayHeaderStyle Font-Bold="True" Font-Size="8pt" />
                 <NextPrevStyle Font-Bold="True" Font-Size="8pt" ForeColor="#333333" VerticalAlign="Bottom" />
