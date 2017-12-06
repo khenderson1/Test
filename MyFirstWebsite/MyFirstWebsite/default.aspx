@@ -10,6 +10,10 @@
     <form id="form1" runat="server">
         <div>
             Welcome to my base! Please have fun! 
+            <br />
+            <br />
+            <asp:Button ID="Button1" runat="server" Text="Send" />
+            <asp:Button ID="Button2" runat="server" Text="It" />
         </div>
     </form>
 </body>
