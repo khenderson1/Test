@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div style="background-position: inherit; background-color: #0099FF; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-style: inherit; border-style: dashed; background-image: url('Pictures/noragrets.jpg'); background-repeat: inherit;">
             Welcome to my base! Please have fun! 
-            <br />
+            and stay safe<br />
             <br />
             <asp:Button ID="Button1" runat="server" Text="Send" />
             <asp:Button ID="Button2" runat="server" Text="It" />
