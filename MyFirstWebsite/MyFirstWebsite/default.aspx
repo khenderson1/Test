@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Welcome to my base!
+            Welcome to my base! Please have fun! 
         </div>
     </form>
 </body>
