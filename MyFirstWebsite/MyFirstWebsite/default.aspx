@@ -16,7 +16,6 @@
             <asp:Button ID="Button2" runat="server" Text="It" />
             <br />
             <br />
-            <asp:TextBox ID="Matts_TextBox1" runat="server"></asp:TextBox>
             <br />
             <asp:Image ID="Image1" runat="server" ImageUrl="https://d3cqast565g2ov.cloudfront.net/wp-content/uploads/2017/04/jeff-goldblum-799x423.jpg" />
             <asp:Calendar ID="Calendar1" runat="server" BackColor="White" BorderColor="White" BorderWidth="1px" Font-Names="Verdana" Font-Size="9pt" ForeColor="Black" Height="190px" NextPrevFormat="FullMonth" Width="350px">
@@ -32,9 +31,6 @@
             <br />
             SQUAD<br />
             <br />
-            <asp:CheckBox ID="CheckBox1" runat="server" />
-            <asp:CheckBox ID="CheckBox2" runat="server" />
-            <asp:CheckBox ID="CheckBox3" runat="server" />
             <br />
             <br />
             DANGERDANGERDANGERDANGERDANGERDANGERDANGER</div>
