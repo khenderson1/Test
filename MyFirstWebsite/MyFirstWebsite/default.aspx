@@ -31,9 +31,6 @@
             <br />
             SQUAD<br />
             <br />
-            <asp:CheckBox ID="CheckBox1" runat="server" />
-            <asp:CheckBox ID="CheckBox2" runat="server" />
-            <asp:CheckBox ID="CheckBox3" runat="server" />
             <br />
             <br />
             DANGERDANGERDANGERDANGERDANGERDANGERDANGER</div>
