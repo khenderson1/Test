@@ -14,6 +14,9 @@
             <br />
             <asp:Button ID="Button1" runat="server" Text="Send" />
             <asp:Button ID="Button2" runat="server" Text="It" />
+            <br />
+            <br />
+            <asp:TextBox ID="Matts_TextBox1" runat="server"></asp:TextBox>
         </div>
     </form>
 </body>
