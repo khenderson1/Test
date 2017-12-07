@@ -18,6 +18,9 @@
             <asp:Image ID="Image2" runat="server" Height="115px" ImageUrl="~/Pictures/untitled.png" Visible="False" Width="200px" />
             <br />
             <br />
+            <asp:TextBox ID="TextBox1" runat="server" Height="16px" Width="590px"></asp:TextBox>
+            <br />
+            <br />
             <asp:Image ID="Image1" runat="server" ImageUrl="https://d3cqast565g2ov.cloudfront.net/wp-content/uploads/2017/04/jeff-goldblum-799x423.jpg" />
             <asp:Calendar ID="Calendar1" runat="server" BackColor="White" BorderColor="White" BorderWidth="1px" Font-Names="Verdana" Font-Size="9pt" ForeColor="Black" Height="190px" NextPrevFormat="FullMonth" Width="350px">
                 <DayHeaderStyle Font-Bold="True" Font-Size="8pt" />
