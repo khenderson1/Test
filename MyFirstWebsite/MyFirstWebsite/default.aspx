@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div style="background-position: inherit; background-color: #0099FF; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-style: inherit; border-style: dashed; background-image: url('Pictures/noragrets.jpg'); background-repeat: inherit;">
             Welcome to my base! Please have fun! 
-            and stay safe. AND DONT GET HURT<br />
+            and stay safe. AND DONT GET HURT MORE MORE MORE MORE MORE TWZT<br />
             <br />
             <asp:Button ID="btnShibe" runat="server" Text="Send" BackColor="Lime" OnClick="btnShibe_Click" Width="105px" />
             <asp:Button ID="btnGoaway" runat="server" Text="It" BackColor="Red" OnClick="btnGoaway_Click" Width="95px" />
